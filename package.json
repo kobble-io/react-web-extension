@@ -60,6 +60,6 @@
     "vite-plugin-dts": "^3.8.1"
   },
   "dependencies": {
-    "@kobbleio/javascript": "file:../../auth-spa-js/kobbleio-javascript-1.5.0-rc-0.0.1.tgz"
+    "@kobbleio/javascript": "^1.6.0"
   }
 }
